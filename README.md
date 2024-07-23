@@ -1,4 +1,5 @@
 # Excel_bank_Loan_Project
+
 This project involves the creation of a dynamic Excel dashboard from raw financial data to monitor and assess bank lending activities and performance. The dashboard provides insights into key loan-related metrics, helping in data-driven decision-making, tracking loan portfolio health, and identifying trends.
 
 # Objectives
@@ -6,10 +7,15 @@ This project involves the creation of a dynamic Excel dashboard from raw financi
 The main objectives of this project were to:
 
 1)Calculate total loan applications and monitor MTD and MoM changes.
+
 2)Track the total funded amount and analyze MTD and MoM changes.
+
 3)Monitor the total amount received from borrowers for cash flow and repayment analysis.
+
 4)Analyze loan performance metrics including loan approval rate, average loan amount, and default rates.
+
 5)Conduct regional analysis of loan distribution and performance.
+
 6)Segment customers based on employment length, income, and loan purpose for targeted analysis.
 
 # Key Features
@@ -26,7 +32,9 @@ KPI Tracking: Tracks all key performance indicators to give a clear picture of t
 # How to Use
 
 1)Download the Excel file: Clone the repository and download the Excel file.
+
 2)Open the Dashboard: Open the Excel file and navigate to the Dashboard sheet.
+
 3)Explore the Insights: Use the interactive features to explore various insights and metrics.
 
 # Data Description
